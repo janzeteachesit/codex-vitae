@@ -1,4 +1,5 @@
 # Codex Vitae 2019.01
+[<< Summary](SUMMARY.md)
 
 This Codex Vitae is a collection of the beliefs and concepts that inform both my decisions and my life.
 
