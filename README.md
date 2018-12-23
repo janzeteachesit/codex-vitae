@@ -9,3 +9,5 @@ This documents main purpose is to provide a place where I can:
 
 My hopes for this document is that, through it I capture my beliefs about the universe, track how my thoughts change over time, and invite others to hold me accountable to my beliefs and commitments.
 
+[Start Here](docs/SUMMARY.md)
+
