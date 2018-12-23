@@ -9,7 +9,8 @@ This documents main purpose is to provide a place where I can:
 
 My hopes for this document is that, through it I capture my beliefs about the universe, track how my thoughts change over time, and invite others to hold me accountable to my beliefs and commitments.
 
-[Codex Vitae 2019](codex_vitae_2019.md)
+- [Codex Vitae 2019](codex_vitae_2019.md)
+- [What is Carl doing Now!](now.md)
 
 ## Index
 - [Notes, Links and Resources](notes_links_resources.md)
