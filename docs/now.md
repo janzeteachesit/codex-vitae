@@ -8,3 +8,4 @@
     - 6th year co-developing an interdisciplinary, Inquiry-based, [STEM (Science, Technology, Engineering and Math)](https://templetonstem.org) learning space/ environment/ experience at Templeton Secondary
     - 3rd year exploring and connecting the new B.C. Curriculum (CLE, CLC, ADST) and the use of portfolios to communicate Student Learning
 
+[<< Summary](SUMMARY.md)
