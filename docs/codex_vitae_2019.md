@@ -1,7 +1,14 @@
 # Codex Vitae 2019.01
 
-This Codex Vitae, or “book of life”, [refs? - see “What is this?”] is a collection of my beliefs and concepts that inform my decisions and life. It is a work in constant flux; as my understanding changes, so will my beliefs. The main purpose of this document is to (1) pull my beliefs into the light where I can questions them more effectively and (2) to share philosophies, concepts, tools, and inspiration that have been helpful to me.
-This document's purpose is to capture my beliefs about the universe, track how my thoughts change over time, and act an invitation to others to hold me accountable to my beliefs and commitments.
+This Codex Vitae is a collection of the beliefs and concepts that inform both my decisions and my life.
+
+This "Book of Life" is a living document; as my understanding changes, so will my beliefs.
+
+This documents main purpose is to provide a place where I can:
+  1. bring my beliefs into the light so that I can reflect on and question them more effectively, and
+  2. share philosophies, concepts, tools, and inspiration that have been helpful to me.
+
+My hopes for this document is that, through it I capture my beliefs about the universe, track how my thoughts change over time, and invite others to hold me accountable to my beliefs and commitments.
 
 ## Instructions
 ### If you are not janzeteachesit:
