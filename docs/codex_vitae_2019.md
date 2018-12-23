@@ -9,7 +9,9 @@ This documents main purpose is to provide a place where I can:
   2. share philosophies, concepts, tools, and inspiration that have been helpful to me.
 
 My hopes for this document is that, through it I capture my beliefs about the universe, track how my thoughts change over time, and invite others to hold me accountable to my beliefs and commitments.
+
 [<< Summary](SUMMARY.md)
+
 ## Instructions
 ### If you are not janzeteachesit:
 1. Read this with the understanding that you are different than me — the way I live my life is not the way you should live yours.
