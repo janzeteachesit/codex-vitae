@@ -6,18 +6,22 @@ This document's purpose is to capture my beliefs about the universe, track how m
 ## Instructions
 ### If you are not janzeteachesit:
 1. Read this with the understanding that you are different than me — the way I live my life is not the way you should live yours.
-2. Read the Glossary for a general intro to my favorite ideas, starting with What is this?, then come back and read through the Beliefs that seem interesting to you.
+2. Read the [Glossary](glossary) for a general intro to my favorite ideas, starting with What is this?, then come back and read through the [Beliefs](beliefs) that seem interesting to you.
 3. Check the Changelog for updates since you last visited.
-4. Consider creating your own Codex (here's a template, or see how I started mine back in 2012).
+4. Consider creating your own Codex (here's a [coachdotme template](https://medium.com/@coachdotme/562e2a24d7d), or see how [Buster Benson started his](https://github.com/busterbenson/public/blob/master/book-of-beliefs-2012.md)).
 
-## As often as you can:
+### If your are janzeteachesit
+As often as you can:
 1. re-read your Type 3 beliefs (opinions).
 2. As things happen in the world, revisit and edit this document to reflect your changing beliefs.
 3. Archive the document annually.
-4. Around your birthday every year, write a new yearly report.
-Glossary
-What is this?
-Beliefs
+Around your birthday every year, write a new yearly report.
+
+## [Glossary](#glossary)
+
+### What is this?
+
+## [Beliefs](#beliefs)
 The universe is a random place; I am okay with that (no “higher” or “guiding” power).
 I am only halfway through life.  I will live for another 50 years (til I am at least 100).  
 I will see a version of myself that is  - a digital copy(?) -.
