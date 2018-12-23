@@ -1,4 +1,5 @@
 # Notes, Links and Resources
+[<< Summary](SUMMARY.md)
 
 ## Codex Vitae
 -  [Codex Vitae - GFolder](https://drive.google.com/drive/folders/1a-H9swbUcqKNCi8hI-7v5y_VTEte7luq?usp=sharing)
